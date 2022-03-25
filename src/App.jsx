@@ -5,9 +5,8 @@ function App() {
   return (
    
      <div>
-       <Header />
-       <Header />
-       <Header />
+       <Header title="Meu Primeiro Component React"/>
+       <Header title="Um Component Com Props"/>
         <h2>
           Amanha é Sexta ALELUIA
         </h2>
